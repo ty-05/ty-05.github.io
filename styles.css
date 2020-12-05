@@ -1,0 +1,85 @@
+* {
+margin: 0;
+}
+body{
+  font-family: 'Avenir Next';
+}
+
+header{
+  background-color: #26d026c9;
+  height: 90px;
+  color: #ffffff;
+  
+}
+
+header p{
+  float: left;
+  font-size: 36px;
+  line-height: 90px;
+  padding-left: 20px;
+}
+
+header ul{
+  font-size: 10px;
+  text-decoration: none;
+  display: inline;
+  line-height: 90px;
+  
+}
+
+header li{
+  display: inline;
+  float: left;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+#lesson{
+  border-bottom: solid,3px,gray;
+}
+
+.main{
+  padding: 100px 80px;
+  
+}
+
+.img:after {
+  display: block;
+  clear: both;
+  content: "";
+}
+.im1{
+  /* width: 244px;  */
+  /* height: 288px; */
+  float: left;
+  padding: 20px 0;
+  margin-right: 60px;
+  
+}
+
+footer{
+  background-color:#2f5167 ;
+  height: 200px;
+  color: #ffffff;
+  font-size: 16px;
+  /* clear: both; */
+}
+
+.f-contair{
+  padding: 40px;
+}
+
+.f-contair p{
+  float: left;
+}
+
+.f-contair ul{
+  float: right;
+  list-style: none;
+
+}
+
+.f-contair li{
+  padding-bottom: 20px;
+  
+}
